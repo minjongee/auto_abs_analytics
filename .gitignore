@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data (do not commit)
+data/
+*.duckdb
+
+# macOS
+.DS_Store
+
+
